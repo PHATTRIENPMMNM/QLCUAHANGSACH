@@ -5,7 +5,9 @@
 Đây là hướng dẫn sử dụng trang Website cho người dùng
 
 ## 1) Giao diện chính
+<br>
 ### Khi bạn mở Website sẽ đi tới trang đăng nhập
+<br>
 <img src="IMG/anh_dn.png">
 - Chức năng: Dùng để đăng nhập vào trang chủ của Website. <br>
 - Hướng dẫn: Điền đầy đủ thông tin và nhấp vào nút đăng nhập.<br>
@@ -16,9 +18,11 @@
 <br>
 <img src="IMG/trangchu.png">
 - Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. <br>
+
 ## Sau đây là các chức năng của trang Website
 <br>
 <hr/>
+
 ## 3) Quản lý nhân viên
 <br>
 <img src="IMG/nhanvien.png">
@@ -32,6 +36,7 @@
     <li>Các bạn cũng có thể tìm kiếm nhân viên theo tên bằng cách nhập tên nhân viên vào ô tìm kiếm và click vào nút tìm kiếm bên cạnh</li>
   </ul>
 - Lưu ý: Khi sửa không được sửa mã nhân viên.
+
 ## 4) Quản lý khách hàng
 <br>
 <img src="IMG/khachhang.png">
@@ -44,6 +49,7 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
      <li>Các bạn cũng có thể tìm kiếm nhân viên theo tên bằng cách nhập tên khách hàng vào ô tìm kiếm và click vào nút tìm kiếm bên cạnh</li>
   </ul>
+  
 ## 5) Quản lý hóa đơn
 <br>
 <img src="IMG/hoadon.png">
@@ -55,6 +61,7 @@
     <li>Click lựa chọn các nút chức năng muốn thực hiện.</li>
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
+  
 ## 6) Quản lý số lượng sách nhập vào
 <br>
 <img src="IMG/sach.png">
@@ -67,6 +74,7 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
     <li>Các bạn cũng có thể tìm kiếm sách theo tên hoặc mã sách bằng cách nhập tên hoặc mã sách vào ô tìm kiếm và lựa chọn kiểu tìm kiếm sau đó click vào nút tìm kiếm bên cạnh</li>
   </ul>
+  
 ## 7) Quản lý nhà xuất bản
 <br>
 <img src="IMG/nxb.png">
@@ -78,6 +86,7 @@
     <li>Click lựa chọn các nút chức năng muốn thực hiện.</li>
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
+  
 ## 8) Đăng xuất
 <br>
 - Chức năng: Để quay về trang Đăng nhập.<br>
