@@ -11,11 +11,11 @@
 - Hướng dẫn: Điền đầy đủ thông tin và nhấp vào nút đăng nhập.
 ## 2) Trang chủ
 ### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính cuae Website
-
+<img src="IMG/trangchu.png">
 - Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. 
 ## Sau đây là các chức năng của trang Website
 ## 3) Quản lý nhân viên
-
+<img src="IMG/nhanvien.png">
 - Chức năng: Quản lý tất cả các nhân viên của cửa hàng,các bạn có thể Thêm/Sửa/Xóa thông tin các nhân viên.
 - Hướng dẫn:
   <ul>
@@ -27,7 +27,7 @@
   </ul>
 - Lưu ý: Khi sửa không được sửa mã nhân viên.
 ## 4) Quản lý khách hàng
-
+<img src="IMG/khachhang.png">
 * Chức năng: Quản lý các thông tin của khách hàng, bạn có thể Thêm/Sửa/Xóa thông tin của khách hàng.
 * Hướng dẫn:
   <ul>
@@ -38,7 +38,7 @@
      <li>Các bạn cũng có thể tìm kiếm nhân viên theo tên bằng cách nhập tên khách hàng vào ô tìm kiếm và click vào nút tìm kiếm bên cạnh</li>
   </ul>
 ## 5) Quản lý hóa đơn
-
+<img src="IMG/hoadon.png">
 * Chức năng: Quản lý hóa đơn bán lẻ của cửa hàng.
 * Hướng dẫn:
   <ul>
@@ -48,7 +48,7 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 6) Quản lý số lượng sách nhập vào
-
+<img src="IMG/sach.png">
 * Chức năng: Quản lý số lượng sách nhập vào cửa hàng.
 * Hướng dẫn:
   <ul>
@@ -59,7 +59,7 @@
     <li>Các bạn cũng có thể tìm kiếm sách theo tên hoặc mã sách bằng cách nhập tên hoặc mã sách vào ô tìm kiếm và lựa chọn kiểu tìm kiếm sau đó click vào nút tìm kiếm bên cạnh</li>
   </ul>
 ## 7) Quản lý nhà xuất bản
-
+<img src="IMG/nxb.png">
 * Chức năng: Tìm kiếm nhà xuất bản có sách tại cửa hàng.
 * Hướng dẫn:
   <ul>
@@ -68,9 +68,7 @@
     <li>Click lựa chọn các nút chức năng muốn thực hiện.</li>
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
-
 ## 8) Đăng xuất
-
 * Chức năng: Để quay về trang Đăng nhập.
 * Hướng dẫn: 
   <ul>
