@@ -28,8 +28,8 @@
 - Lưu ý: Khi sửa không được sửa mã nhân viên.
 ## 4) Quản lý khách hàng
 <img src="IMG/khachhang.png">
-* Chức năng: Quản lý các thông tin của khách hàng, bạn có thể Thêm/Sửa/Xóa thông tin của khách hàng.
-* Hướng dẫn:
+- Chức năng: Quản lý các thông tin của khách hàng, bạn có thể Thêm/Sửa/Xóa thông tin của khách hàng.
+- Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Danh sách khách hàng" trong bảng Menu thì một trang mới sẽ hiện ra</li>
     <li>Nhập các thông tin của khách hàng ở các ô tương ứng</li>
@@ -39,8 +39,8 @@
   </ul>
 ## 5) Quản lý hóa đơn
 <img src="IMG/hoadon.png">
-* Chức năng: Quản lý hóa đơn bán lẻ của cửa hàng.
-* Hướng dẫn:
+- Chức năng: Quản lý hóa đơn bán lẻ của cửa hàng.
+- Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Hóa đơn" trong bảng Menu thì một trang mới sẽ hiện ra</li>
     <li>Nhập các thông tin vào ô tương ứng</li>
@@ -49,8 +49,8 @@
   </ul>
 ## 6) Quản lý số lượng sách nhập vào
 <img src="IMG/sach.png">
-* Chức năng: Quản lý số lượng sách nhập vào cửa hàng.
-* Hướng dẫn:
+- Chức năng: Quản lý số lượng sách nhập vào cửa hàng.
+- Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Số lượng sách nhập kho" trong bảng Menu thì một trang mới sẽ hiện ra</li>
     <li>Nhập các thông tin các ô tương ứng</li>
@@ -60,8 +60,8 @@
   </ul>
 ## 7) Quản lý nhà xuất bản
 <img src="IMG/nxb.png">
-* Chức năng: Tìm kiếm nhà xuất bản có sách tại cửa hàng.
-* Hướng dẫn:
+- Chức năng: Tìm kiếm nhà xuất bản có sách tại cửa hàng.
+- Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Danh sách các nhà xuất bản" trong bảng Menu thì một trang mới sẽ hiện ra</li>
     <li>Nhập các thông tin các ô tương ứng</li>
@@ -69,8 +69,8 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 8) Đăng xuất
-* Chức năng: Để quay về trang Đăng nhập.
-* Hướng dẫn: 
+- Chức năng: Để quay về trang Đăng nhập.
+- Hướng dẫn: 
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Đăng xuất" trong bảng Menu thì sẽ quay về trang đăng nhập</li>
   </ul>
