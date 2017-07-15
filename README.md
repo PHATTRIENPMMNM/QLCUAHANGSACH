@@ -37,5 +37,5 @@
  <b>-Mục tiêu tương lai:</b>
  <br/>Sản phẩm có thể hoàn thiện, phát triển hơn và nhận được sự đánh giá cao của khách hàng.
  # Tài liệu phát triển 
-  Xem tại [Wiki](https://github.com/PHATTRIENPMMNM/QLCUAHANGSACH/wiki)
+  Xem tại [Wiki] (https://github.com/PHATTRIENPMMNM/QLCUAHANGSACH/wiki)
  
