@@ -1,3 +1,4 @@
+
 <H2>XÂY DỰNG TRANG WEBSITE QUẢN LÝ CỦA HÀNG SÁCH VĨNH PHƯỚC</H2>
 <hr/>
 <br/>
@@ -41,3 +42,6 @@
  <br>
   Xem tại [Wiki] (https://github.com/PHATTRIENPMMNM/QLCUAHANGSACH/wiki)
  
+# Giấy phép
+* Trang website  được phát hành theo giấy phép GNU.
+* Xem toàn văn giấy phép trong tệp [giayphep](giayphep)
