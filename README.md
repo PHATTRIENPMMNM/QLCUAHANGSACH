@@ -1,4 +1,4 @@
-<H2>XÂY DỰNG TRANG WEBSITE QUẢN LÝ CỦA HÀNG SÁCH VĨNH PHƯỚC
+<H2>XÂY DỰNG TRANG WEBSITE QUẢN LÝ CỦA HÀNG SÁCH VĨNH PHƯỚC</H2>
 <hr/>
 <br/>
 Thực hiện :        <li>Nguyễn Hoài Tri </li>
