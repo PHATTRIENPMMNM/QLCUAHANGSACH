@@ -12,13 +12,15 @@
 
 ## 2) Trang chủ
 <br>
-### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính cuae Website
+### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính của Website
 <img src="IMG/trangchu.png">
-- Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. 
+- Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. <br>
 ## Sau đây là các chức năng của trang Website
+<hr/>
 ## 3) Quản lý nhân viên
+<br>
 <img src="IMG/nhanvien.png">
-- Chức năng: Quản lý tất cả các nhân viên của cửa hàng,các bạn có thể Thêm/Sửa/Xóa thông tin các nhân viên.
+- Chức năng: Quản lý tất cả các nhân viên của cửa hàng,các bạn có thể Thêm/Sửa/Xóa thông tin các nhân viên.<br>
 - Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Danh sách nhân viên" trong bảng Menu thì một trang mới sẽ hiện ra</li>
@@ -29,8 +31,9 @@
   </ul>
 - Lưu ý: Khi sửa không được sửa mã nhân viên.
 ## 4) Quản lý khách hàng
+<br>
 <img src="IMG/khachhang.png">
-- Chức năng: Quản lý các thông tin của khách hàng, bạn có thể Thêm/Sửa/Xóa thông tin của khách hàng.
+- Chức năng: Quản lý các thông tin của khách hàng, bạn có thể Thêm/Sửa/Xóa thông tin của khách hàng.<br>
 - Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Danh sách khách hàng" trong bảng Menu thì một trang mới sẽ hiện ra</li>
@@ -40,8 +43,9 @@
      <li>Các bạn cũng có thể tìm kiếm nhân viên theo tên bằng cách nhập tên khách hàng vào ô tìm kiếm và click vào nút tìm kiếm bên cạnh</li>
   </ul>
 ## 5) Quản lý hóa đơn
+<br>
 <img src="IMG/hoadon.png">
-- Chức năng: Quản lý hóa đơn bán lẻ của cửa hàng.
+- Chức năng: Quản lý hóa đơn bán lẻ của cửa hàng.<br>
 - Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Hóa đơn" trong bảng Menu thì một trang mới sẽ hiện ra</li>
@@ -50,8 +54,9 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 6) Quản lý số lượng sách nhập vào
+<br>
 <img src="IMG/sach.png">
-- Chức năng: Quản lý số lượng sách nhập vào cửa hàng.
+- Chức năng: Quản lý số lượng sách nhập vào cửa hàng.<br>
 - Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Số lượng sách nhập kho" trong bảng Menu thì một trang mới sẽ hiện ra</li>
@@ -61,8 +66,9 @@
     <li>Các bạn cũng có thể tìm kiếm sách theo tên hoặc mã sách bằng cách nhập tên hoặc mã sách vào ô tìm kiếm và lựa chọn kiểu tìm kiếm sau đó click vào nút tìm kiếm bên cạnh</li>
   </ul>
 ## 7) Quản lý nhà xuất bản
+<br>
 <img src="IMG/nxb.png">
-- Chức năng: Tìm kiếm nhà xuất bản có sách tại cửa hàng.
+- Chức năng: Tìm kiếm nhà xuất bản có sách tại cửa hàng.<br>
 - Hướng dẫn:
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Danh sách các nhà xuất bản" trong bảng Menu thì một trang mới sẽ hiện ra</li>
@@ -71,7 +77,8 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 8) Đăng xuất
-- Chức năng: Để quay về trang Đăng nhập.
+<br>
+- Chức năng: Để quay về trang Đăng nhập.<br>
 - Hướng dẫn: 
   <ul>
     <li>Khi các bạn nhấp chuột vào chọn "Đăng xuất" trong bảng Menu thì sẽ quay về trang đăng nhập</li>
