@@ -1,11 +1,11 @@
-       <h3> <strong>Giấy Phép Công Cộng Chung của GNU</strong></h3>
-             <h4><strong> Phiên bản 3, ngày 29 tháng 06 năm 2007</strong></h4>
+               Giấy Phép Công Cộng Chung của GNU
+            Phiên bản 3, ngày 29 tháng 06 năm 2007
 
  Bản quyền (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Mọi người đều được phép sao chép và phân phối các bản sao nguyên văn
  Của giấy phép này, nhưng thay đổi nó là không được phép.
 
-                           ## Lời mở đầu
+                           Lời mở đầu
 
   Giấy phép Công cộng GNU là giấy phép miễn phí, copyleft cho
 Phần mềm và các loại công trình khác.
@@ -68,9 +68,9 @@ Bằng sáng chế không thể được sử dụng để làm cho chương tr�
   Các điều khoản và điều kiện chính xác để sao chép, phân phối và
 Sửa đổi theo.
 
-                     ##  CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+                     CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
 
- *0. Định nghĩa.*
+ 0. Định nghĩa.*
 
   "Giấy phép này" đề cập đến phiên bản 3 của Giấy phép Công cộng GNU.
 
@@ -109,7 +109,7 @@ Làm việc theo Giấy phép này, và làm thế nào để xem một bản sa
 Giao diện trình bày một danh sách các lệnh người dùng hoặc các tùy chọn, chẳng hạn như một
 Menu, một mục nổi bật trong danh sách đáp ứng tiêu chí này.
 
-  *1. Mã Nguồn.
+  1. Mã Nguồn.
 
   "Mã nguồn" cho tác phẩm là hình thức ưa thích của tác phẩm
 Để thực hiện sửa đổi nó. "Mã đối tượng" có nghĩa là bất kỳ nguồn không phải nguồn nào
@@ -151,7 +151,7 @@ Nguồn.
   Nguồn tương ứng cho một công việc ở dạng mã nguồn là
 Cùng công việc.
 
-  *2. Các quyền cơ bản.
+  2. Các quyền cơ bản.
 
   Tất cả các quyền được cấp theo Giấy phép này được cấp cho thời hạn
 Bản quyền đối với Chương trình và không thể hủy ngang được cung cấp theo quy định
@@ -176,7 +176,7 @@ Tài liệu có bản quyền của bạn bên ngoài mối quan hệ với bạ
 Các điều kiện nêu dưới đây. Không cho phép cấp phép riêng tư; Phần 10
 Làm cho nó không cần thiết.
 
-  *3. Bảo vệ quyền của Người sử dụng theo Luật Phòng, chống Chấn thương.
+  3. Bảo vệ quyền của Người sử dụng theo Luật Phòng, chống Chấn thương.
 
   Không công việc được bảo hiểm nào được coi là một phần của một công nghệ hiệu quả
 Đo lường theo bất kỳ luật hiện hành nào thực hiện nghĩa vụ theo điều
@@ -192,7 +192,7 @@ Sửa đổi của tác phẩm như là một phương tiện để thực thi, 
 Người sử dụng, quyền hợp pháp của bên thứ ba hoặc bên thứ ba của bạn đối với việc cấm
 Các biện pháp công nghệ.
 
-  *4. Truyền tải bản sao nguyên văn.
+  4. Truyền tải bản sao nguyên văn.
 
   Bạn có thể truyền tải bản sao nguyên văn của mã nguồn của Chương trình khi bạn
 Nhận nó, trong bất kỳ phương tiện, miễn là bạn rõ ràng và
@@ -205,7 +205,7 @@ Người nhận một bản sao của Giấy phép này cùng với Chương tr�
   Bạn có thể tính phí bất kỳ giá nào hoặc không có giá cho mỗi bản sao mà bạn chuyển tải,
 Và bạn có thể hỗ trợ hoặc bảo hành bảo hành với mức phí.
 
-  *5. Truyền tải các phiên bản nguồn được sửa đổi.
+  5. Truyền tải các phiên bản nguồn được sửa đổi.
 
   Bạn có thể chuyển tải một tác phẩm dựa trên Chương trình, hoặc sửa đổi
 Sản xuất nó từ Chương trình, dưới dạng mã nguồn dưới
@@ -242,7 +242,7 @@ Vượt quá những gì cá nhân làm việc cho phép. Bao gồm một tác p
 Trong một tổng hợp không gây ra Giấy phép này để áp dụng cho các khác
 Một phần của tổng thể.
 
-  *6. Phân phối các mẫu không phải nguồn.
+  6. Phân phối các mẫu không phải nguồn.
 
   Bạn có thể chuyển tải một tác phẩm được bảo hiểm dưới dạng mã đối tượng theo các điều khoản
 Của các mục 4 và 5, miễn là bạn cũng truyền đạt
@@ -340,7 +340,7 @@ Tài liệu (và với việc thực hiện có sẵn cho công chúng trong
 Mã nguồn), và không yêu cầu mật khẩu đặc biệt hoặc phím cho
 Giải nén, đọc hoặc sao chép.
 
-  *7. Các Điều Khoản Bổ Sung.
+  7. Các Điều Khoản Bổ Sung.
 
   "Bổ sung giấy phép" là các điều khoản bổ sung các điều khoản của điều này
 Giấy phép bằng cách đưa ra ngoại lệ từ một hoặc nhiều điều kiện của nó.
@@ -404,7 +404,7 @@ Nơi để tìm các điều khoản áp dụng.
 Hình thức của một giấy phép bằng văn bản riêng biệt, hoặc nêu là trường hợp ngoại lệ;
 Các yêu cầu trên áp dụng một trong hai cách.
 
-  *8. Chấm dứt.
+  8. Chấm dứt.
 
   Bạn không được truyền bá hoặc sửa đổi một tác phẩm được bảo hiểm trừ khi rõ ràng
 Được cung cấp theo Giấy phép này. Bất kỳ nỗ lực nào khác để tuyên truyền hoặc
@@ -432,7 +432,7 @@ Giấy phép này. Nếu quyền của bạn đã bị chấm dứt và không v
 Được phục hồi, bạn không đủ điều kiện để nhận được giấy phép mới cho cùng một
 Vật liệu theo mục 10.
 
-  *9. Chấp nhận không bắt buộc phải có bản sao.
+  9. Chấp nhận không bắt buộc phải có bản sao.
 
   Bạn không bắt buộc phải chấp nhận Giấy phép này để nhận hoặc
 Chạy một bản sao của Chương trình. Sự truyền bá phụ trợ của một tác phẩm được bảo hiểm
@@ -443,7 +443,7 @@ Sửa đổi bất kỳ tác phẩm được bảo hiểm. Những hành động
 Không chấp nhận Giấy phép này. Do đó, bằng cách sửa đổi hoặc tuyên truyền một
 Bao gồm công việc, bạn cho biết chấp nhận của bạn Giấy phép này để làm như vậy.
 
-  *10. Cấp phép tự động cho người nhận hạ lưu.
+  10. Cấp phép tự động cho người nhận hạ lưu.
 
   Mỗi lần bạn chuyển tải một tác phẩm được bảo hiểm, người nhận sẽ tự động
 Nhận giấy phép từ các nhà cấp phép ban đầu, để chạy, sửa đổi và
@@ -468,7 +468,7 @@ Các quyền được cấp theo Giấy phép này, và bạn không được kh
 Bất kỳ khiếu nại bằng sáng chế nào bị vi phạm bằng cách làm, sử dụng, bán, chào bán
 Bán, hoặc nhập khẩu Chương trình hoặc bất kỳ phần nào của nó.
 
-  *11. Bằng sáng chế.
+  11. Bằng sáng chế.
 
   "Người đóng góp" là người giữ bản quyền cho phép sử dụng theo điều này
 Giấy phép của Chương trình hoặc một tác phẩm mà Chương trình dựa trên. Các
@@ -537,7 +537,7 @@ Hoặc giấy phép bằng sáng chế đã được cấp trước ngày 28 th�
 Bất kỳ giấy phép ngụ ý hoặc biện pháp phòng vệ nào đối với vi phạm có thể
 Nếu không sẽ có sẵn cho bạn theo luật sáng chế hiện hành.
 
-  *12. Không đầu hàng của tự do người khác.
+  12. Không đầu hàng của tự do người khác.
 
   Nếu có điều kiện đối với bạn (cho dù theo lệnh tòa, thỏa thuận hoặc
 Nếu không) mâu thuẫn với các điều kiện của Giấy phép này, họ không
@@ -549,7 +549,7 @@ Không chuyển tải nó cả. Ví dụ: nếu bạn đồng ý với các đi�
 Chương trình, cách duy nhất bạn có thể thỏa mãn cả những điều khoản này và điều này
 Giấy phép sẽ được hoàn toàn không được chuyển tải Chương trình.
 
-  *13. Sử dụng với Giấy phép Công cộng GPL của GNU.
+  13. Sử dụng với Giấy phép Công cộng GPL của GNU.
 
   Bất kể các điều khoản khác của Giấy phép này, bạn có
 Cho phép liên kết hoặc kết hợp bất kỳ tác phẩm được bảo hiểm nào với tác phẩm được cấp phép
@@ -560,7 +560,7 @@ Nhưng các yêu cầu đặc biệt của GNU Affero Giấy phép Công cộng,
 Phần 13, liên quan đến sự tương tác thông qua một mạng sẽ áp dụng cho
 Kết hợp như vậy.
 
-  *14. Phiên bản sửa đổi của Giấy phép này.
+  14. Phiên bản sửa đổi của Giấy phép này.
 
   Tổ chức Phần mềm Tự do có thể xuất bản các phiên bản sửa đổi và / hoặc mới của
 Giấy phép Công cộng GNU theo thời gian. Các phiên bản mới sẽ
@@ -586,7 +586,7 @@ Cho phép. Tuy nhiên, không có nghĩa vụ bổ sung được áp đặt vào
 Tác giả hoặc người giữ bản quyền như là kết quả của việc bạn lựa chọn theo
 Phiên bản sau này.
 
-  *15. Khước từ bảo hành.
+  15. Khước từ bảo hành.
 
   KHÔNG CÓ BẢO HÀNH CHO CHƯƠNG TRÌNH, ĐỘC LẬP ĐƯỢC CHO PHÉP
 LUẬT ÁP DỤNG. TR EX KHI ĐƯỢC TẠM QUYỀN KHÁC ĐẾN VỀ BẢN QUYỀN
@@ -597,7 +597,7 @@ MỤC ĐÍCH. RỦI RO TO NH ASNG CHẤT LƯỢNG VÀ THỰC HIỆN CHƯƠNG TR�
 LÀ VỚI BẠN. NÊN CHƯƠNG TRÌNH XÁC MINH BỊ THAY, BẠN THỰC HIỆN PHÍ
 TẤT CẢ CÁC DỊCH VỤ CẦN THIẾT, S REA CH REA HO ORC S CORA CH CORA.
 
-  *16. Giới hạn trách nhiệm.
+  16. Giới hạn trách nhiệm.
 
   TRONG BẤT CỨ TRƯỜNG TRỪ KHI YÊU CẦU CỦA LUẬT PHÁP HOẶC ĐƯỢC THỎA THUẬN BẰNG VĂN BẢN
 S W BẤT K AN NGƯỜI GI COP QUYỀN TÁC GIẢ, HO ORC BẤT K AN NGƯỜI S MODA ĐỔI VÀ / HO CONC CONVEYS
@@ -609,7 +609,7 @@ CÁC BÊN HO ORC KHÔNG THỰC HIỆN CHƯƠNG TRÌNH HOẠT ĐỘNG VỚI CÁC 
 NGAY CẢ KHI NH SUNG NGƯỜI TỐT CHỦ NHÀ HO ORC NGƯỜI KHÁC ĐÃ ĐƯỢC KHUYÊN VỀ KHẢ NĂNG CỦA
 NH DNG THIỆT HẠI ĐÓ.
 
-  *17. Giải thích từ Mục 15 và 16.
+  17. Giải thích từ Mục 15 và 16.
 
   Nếu việc từ chối bảo hành và giới hạn trách nhiệm được cung cấp
 Ở trên không thể có hiệu lực pháp luật địa phương theo các điều khoản của họ,
@@ -618,7 +618,7 @@ Một sự từ bỏ tuyệt đối của tất cả trách nhiệm dân sự li
 Chương trình, trừ khi một bảo hành hoặc giả định trách nhiệm đi kèm với một
 Bản sao của Chương trình để đổi lại khoản phí.
 
-                     ##KẾT THÚC CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+                    KẾT THÚC CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
 
             Cách Nộp Các Điều Khoản này vào Các Chương Trình Mới Của Bạn
 
