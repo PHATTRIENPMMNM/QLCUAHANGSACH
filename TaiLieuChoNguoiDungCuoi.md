@@ -8,6 +8,7 @@
 <br>
 ### Khi bạn mở Website sẽ đi tới trang đăng nhập
 <br>
+
 <img src="IMG/anh_dn.png">
 - Chức năng: Dùng để đăng nhập vào trang chủ của Website. <br>
 - Hướng dẫn: Điền đầy đủ thông tin và nhấp vào nút đăng nhập.<br>
@@ -16,6 +17,7 @@
 <br>
 ### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính của Website
 <br>
+
 <img src="IMG/trangchu.png">
 - Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. <br>
 
