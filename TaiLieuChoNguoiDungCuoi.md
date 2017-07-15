@@ -13,9 +13,11 @@
 ## 2) Trang chủ
 <br>
 ### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính của Website
+<br>
 <img src="IMG/trangchu.png">
 - Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. <br>
 ## Sau đây là các chức năng của trang Website
+<br>
 <hr/>
 ## 3) Quản lý nhân viên
 <br>
