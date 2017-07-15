@@ -1,0 +1,21 @@
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+D:\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+D:\slQuanLyThuVien\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+D:\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+D:\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.dll
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Business_Tier.pdb
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.dll
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\bin\Debug\Data_Tier.pdb
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.dll
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\Business_Tier\obj\Debug\Business_Tier.pdb
