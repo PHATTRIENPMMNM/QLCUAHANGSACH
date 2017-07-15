@@ -7,9 +7,9 @@
 ## 1) Giao diện chính
 ### Khi bạn mở Website sẽ đi tới trang đăng nhập
 <img src="IMG/anh_dn.png">
-- Chức năng: Dùng để đăng nhập vào trang chủ của Website. 
-- Hướng dẫn: Điền đầy đủ thông tin và nhấp vào nút đăng nhập.
-## 2) Trang chủ
+- Chức năng: Dùng để đăng nhập vào trang chủ của Website. <br>
+- Hướng dẫn: Điền đầy đủ thông tin và nhấp vào nút đăng nhập.<br>
+## 2) Trang chủ<br>
 ### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính cuae Website
 <img src="IMG/trangchu.png">
 - Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. 
