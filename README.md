@@ -18,22 +18,22 @@
 <b>Mục tiêu dự án</b><br/>
 <b>-Mục tiêu sử dụng:</b>
 <li>Quản lý sách </li>
- <br/>-In ra danh sách Sách nhập kho(theo mã sách,theo tên sách)
- <br/>-Cập nhật (thêm, xóa, sửa) sách .
- <br/> -In ra thể loại sách có nhiều sách nhất . 
- <br/> -Thống kê số sách hiện tại còn trong cửa hàng.
+ <br/>In ra danh sách Sách nhập kho(theo mã sách,theo tên sách)
+ <br/>Cập nhật (thêm, xóa, sửa) sách .
+ <br/>In ra thể loại sách có nhiều sách nhất . 
+ <br/>Thống kê số sách hiện tại còn trong cửa hàng.
  <br/><li>Quản lý nhân viên</li>
- <br/> -Thống kê danh sách nhân viên.
- <br/> -Cập nhật ( thêm , xóa ,sửa).
- <br/>-Tìm kiếm nhân viên(theo tên, theo mã nhân viên...).
- <br/>-Tính số ngày công cho nhân viên.
+ <br/>Thống kê danh sách nhân viên.
+ <br/>Cập nhật ( thêm , xóa ,sửa).
+ <br/>Tìm kiếm nhân viên(theo tên, theo mã nhân viên...).
+ <br/>Tính số ngày công cho nhân viên.
  <br/><li>Quản lý hóa đơn</li>
- <br/>-In ra danh sách háo đơn.
- <br/>-Tìm kiếm hóa đơn(theo mã...)
- <br/>-In ra sách được bán nhiều nhất trong ngày và tiền thu được từ sách đó .
+ <br/>In ra danh sách háo đơn.
+ <br/>Tìm kiếm hóa đơn(theo mã...)
+ <br/>In ra sách được bán nhiều nhất trong ngày và tiền thu được từ sách đó .
  <br/><li>Quản lý khách hàng</li>
- <br/>-In ra danh sách khách hàng có mua hàng trong tháng.
- <br/>-Cập nhật , in thông tin cá nhân tài khoản khách hàng.<br/>
+ <br/>In ra danh sách khách hàng có mua hàng trong tháng.
+ <br/>Cập nhật , in thông tin cá nhân tài khoản khách hàng.<br/>
  <b>-Mục tiêu tương lai:</b>
  <br/>Sản phẩm có thể hoàn thiện, phát triển hơn và nhận được sự đánh giá cao của khách hàng.
  
