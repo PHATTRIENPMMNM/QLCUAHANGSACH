@@ -6,6 +6,7 @@
 
 ## 1) Giao diện chính
 <br>
+
 ### Khi bạn mở Website sẽ đi tới trang đăng nhập
 <br>
 
@@ -15,6 +16,7 @@
 
 ## 2) Trang chủ
 <br>
+
 ### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính của Website
 <br>
 
