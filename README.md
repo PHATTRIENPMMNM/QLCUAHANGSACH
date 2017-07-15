@@ -12,7 +12,6 @@ Thông tin liên lạc : SDT_01634440229(hoaitri12345@gmail.com)
 <br>Ngày nay công nghệ thông tin đã có những bước phát triển mạnh mẽ cả về chiều rộng và chiều sâu. Máy tính không còn là một thứ phương tiện quý hiếm mà nó đã trở thành một công cụ làm việc và giải trí thông dụng. Đứng trước vai trò của thông tin hoạt động cạnh tranh gay gắt các tổ chức, doanh nghiệp đều tìm mọi biện pháp để xây duwngjhoanf thiện hệ thống thông tin của mình nhằm tin học hóa các hoạt động kinh doanh của đơn vị.
 <br>Ở Việt Nam có nhiều doanh nghiệp đang tiến hành thương mại hóa trên Internet,nhà sách Vĩnh Phước cũng không là ngoại lệ. Việc quản lý trong nhà sách dần được tin họa hóa hiện đại hơn, biết sử dụng trang web để quản lý nhân viên, quản lý sách....Đây là lý do mà nhóm em chọn đề tài: " Xây dựng website quản lý của hàng sách Vĩnh Phước".
 <hr/>
-<hr>
 <b>Giới thiệu sản phẩm</b>
 <br>-Sản phẩm tạo ra nhằm đáp ứng nhu cầu của người sử dụng về việc quản lý cửa hàng, giúp người quản lý có thể dễ dàng hơn trong việc quản lý số lượng nhân viên, số lượng sách,số lượng khách hàng cũng như hóa đơn...
 <hr/>
