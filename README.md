@@ -45,3 +45,8 @@
 # Giấy phép
 * Trang website  được phát hành theo giấy phép GNU.
 * Xem toàn văn giấy phép trong tệp [giayphep](giayphep)
+
+# Kênh liên lạc
+
+* Fan page: [QLCUAHANGSACH](https://www.facebook.com/C%E1%BB%ADa-h%C3%A0ng-s%C3%A1ch-V%C4%A9nh-Ph%C6%B0%E1%BB%9Bc-407431759651043/)
+* Website : http://localhost:1621/QLCHS1/Default.aspx
