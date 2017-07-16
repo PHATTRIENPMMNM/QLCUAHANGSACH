@@ -1,0 +1,57 @@
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.dll
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+E:\LT WINDOW\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.dll
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.dll
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Business_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\Data_Tier.pdb
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInBangSach.resources
+D:\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.FormLoad.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiMuon.resources
+D:\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiTra.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.CapNhat.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.DanhMucSach.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.FormLoad.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInBangSach.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiMuon.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.frmInNguoiTra.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.MuonTraSach.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.QuanLyDocGia.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TacGia.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.TimKiemSach.resources
+D:\BTKTM_DB2\QLCHS1\IMG\qlythuvien\[Sharecode.vn] De tai quan ly thu vien full code c# +bao cao\slQuanLyThuVien\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
