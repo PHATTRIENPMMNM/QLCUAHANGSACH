@@ -44,7 +44,7 @@
  
 # Giấy phép
 * Trang website  được phát hành theo giấy phép GNU.
-* Xem toàn văn giấy phép trong tệp [giayphep](giayphep)
+* Xem toàn văn giấy phép trong tệp [giayphep](giayphep.md)
 
 # Kênh liên lạc
 
