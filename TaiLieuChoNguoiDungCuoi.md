@@ -10,7 +10,7 @@
 ### Khi bạn mở Website sẽ đi tới trang đăng nhập
 <br>
 
-<img src="IMG/anh_dn.png">
+<img src="IMAGE/anh_dn.png">
 - Chức năng: Dùng để đăng nhập vào trang chủ của Website. <br>
 - Hướng dẫn: Điền đầy đủ thông tin và nhấp vào nút đăng nhập.<br>
 
@@ -20,7 +20,7 @@
 ### Sau khi đăng nhập thành công bạn sẽ vào giao diện chính của Website
 <br>
 
-<img src="IMG/trangchu.png">
+<img src="IMAGE/trangchu.png">
 - Chức năng: Là trang hiển thị sau khi chúng ta đăng nhập. <br>
 
 ## Sau đây là các chức năng của trang Website
@@ -29,7 +29,7 @@
 
 ## 3) Quản lý nhân viên
 <br>
-<img src="IMG/nhanvien.png">
+<img src="IMAGE/nhanvien.png">
 - Chức năng: Quản lý tất cả các nhân viên của cửa hàng,các bạn có thể Thêm/Sửa/Xóa thông tin các nhân viên.<br>
 - Hướng dẫn:
   <ul>
@@ -43,7 +43,7 @@
 
 ## 4) Quản lý khách hàng
 <br>
-<img src="IMG/khachhang.png">
+<img src="IMAGE/khachhang.png">
 - Chức năng: Quản lý các thông tin của khách hàng, bạn có thể Thêm/Sửa/Xóa thông tin của khách hàng.<br>
 - Hướng dẫn:
   <ul>
@@ -56,7 +56,7 @@
   
 ## 5) Quản lý hóa đơn
 <br>
-<img src="IMG/hoadon.png">
+<img src="IMAGE/hoadon.png">
 - Chức năng: Quản lý hóa đơn bán lẻ của cửa hàng.<br>
 - Hướng dẫn:
   <ul>
@@ -68,7 +68,7 @@
   
 ## 6) Quản lý số lượng sách nhập vào
 <br>
-<img src="IMG/sach.png">
+<img src="IMAGE/sach.png">
 - Chức năng: Quản lý số lượng sách nhập vào cửa hàng.<br>
 - Hướng dẫn:
   <ul>
@@ -81,7 +81,7 @@
   
 ## 7) Quản lý nhà xuất bản
 <br>
-<img src="IMG/nxb.png">
+<img src="IMAGE/nxb.png">
 - Chức năng: Tìm kiếm nhà xuất bản có sách tại cửa hàng.<br>
 - Hướng dẫn:
   <ul>
