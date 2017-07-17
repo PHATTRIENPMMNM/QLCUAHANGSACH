@@ -1,0 +1,75 @@
+1.	Đặc tả hệ thống
+Với website này, chúng em chỉ tập trung vào quản lý sách, quản lysnhaan viên, khách hàng, hóa đơn.. của cửa hàng cụ thể như: Thực hiện nhập liệu, chỉnh sửa thông tin, xóa các danh mục, thống kê sách hàng tháng và tìm kiếm thông tin.
+2.	Sơ đồ phân rã chức năng
+Giả sử một công ty sử dụng phần mềm Quản lý sách. Cấp cao nhất sẽ là quản trị có thể điều hành nhiều công việc, tiếp đó là nhân viên
+
+
+
+
+
+
+
+
+
+3.	
+
+Hình . Sơ đồ phân rã chức năng (BFD)
+
+4.	Sơ đồ thực thể - quan hệ (ERD)
+ 
+Hình . Sơ đồ thực thể - quan hệ (ERD)
+
+5.	Thiết kế hệ thống: Thiết kế và mô tả mô hình dữ liệu vật lý
+
+ Bảng 1. Chi tiết hóa đơn
+
+-	MACTHD: Mã của hóa đơn lập ra được xây dựng dưới dạng chi tiết hơn.
+-	MAHD: Mã của hóa đơn được lập ra ban đầu.
+-	MASACH: Mã của sách được mua, được lấy từ thông tin sách.
+-	SOLUONG: Số lượng sách trong hóa đơn
+
+
+ Bảng 2. Nhà xuất bản
+
+-	MANXB: Mã của nhà xuất bản.
+-	TENNXB: Tên của nhà xuất bản.
+-	DIACHINXB: Địa chỉ của nhà xuất bản.
+-	SDTNXB: Số điện thoại của nhà xuất bản.
+       
+Bảng 3: Sách
+
+-	MASACH: Mã của sách.
+-	TENSACH: Tên của sách.
+-	SOLUONGNHAP: Số lượng sách nhập vào.
+-	GIABAN: Giá bán. 
+ 
+Bảng 4. Hóa đơn
+
+-	MAHD: Mã của hóa đơn được lập ra ban đầu.
+-	MANV: Mã của nhân viên lập hóa đơn.
+-	MAKH: Mã của khách hàng mua sách.
+-	NGAYLAPHD: Ngày lập hóa đơn
+
+ 
+Bảng 5: Khách hàng
+
+-	MAKH: Mã của khách hàng mua sách.
+-	TENKH: Tên của khách hàng mua sách.
+-	DIACHIKH: Địa chỉ của khách hàng mua sách.
+-	SDTKH: Số điện thoại của khách hàng mua sách.
+ 
+Bảng 6
+-	MANV: Mã của nhân viên.
+-	TENNV: Tên của nhân viên.
+-	GIOITINH: Giới tính của nhân viên.
+-	DIACHI: Địa chỉ của nhân viên.
+-	SDT: Điện thoại của nhân.
+-	CMND: Số CMND của nhân viên.
+
+ Bảng 7. Đăng nhập
+
+-	TENDN: Tên đăng nhập vào website.
+-	MATKHAU: Mật khẩu đăng nhập vào website.
+
+
+
